@@ -22,7 +22,6 @@ Unity 6000.6.2f1，Universal 2D。
 Homework 場景、人物圖片與平台先前由輔助工具建立；目前角色執行只使用 Journey.cs。
 平台的位置和大小可在 Inspector 的 Transform 調整。
 背景顏色可選取 Main Camera，在 Inspector 的 Background 調整。
-若更改平台位置，請同步修改 Journey.cs 內的路線座標。
 
 ## 課堂參考
 CH03 C# 程式腳本的基礎_1151FJU：變數、if、陣列、Vector。
