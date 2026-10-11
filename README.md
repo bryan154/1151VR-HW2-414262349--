@@ -28,4 +28,5 @@ Homework 場景、人物圖片與平台先前由輔助工具建立；目前角�
 CH03 C# 程式腳本的基礎_1151FJU：變數、if、陣列、Vector。
 Vector3.MoveTowards 與 Time.deltaTime 是此作業額外使用的 Unity 功能，上方已說明用途。
 
-
+## 繳交資料
+專案截圖、GitHub 連結、YouTube 連結與共享邀請仍待完成。
