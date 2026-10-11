@@ -1,8 +1,6 @@
 # 1151VR-HW2-414262349-陳嘉恩
 
 ## 專案
-Unity 6000.6.2f1，Universal 2D。
-開啟 Assets/Scenes/Homework.unity，按 Play 開始自動移動。
 角色往前走、跳到兩個高台，再下跳到終點。重播時停止 Play 後重新按 Play。
 
 ## 程式說明
@@ -25,12 +23,12 @@ Homework 場景、人物圖片與平台先前由輔助工具建立；目前角�
 
 ## 課堂參考
 CH03 C# 程式腳本的基礎_1151FJU：變數、if、陣列、Vector。
-Vector3.MoveTowards 與 Time.deltaTime 是此作業額外使用的 Unity 功能，上方已說明用途。
 
 ## 繳交資料
 
 ### 專案截圖
-待補上文件中的專案截圖。
+<img width="1090" height="438" alt="image" src="https://github.com/user-attachments/assets/78dcd189-eb04-427d-b847-e327a2c5b704" />
+
 
 ### GitHub 連結
 [1151VR-HW2-414262349-陳嘉恩](https://github.com/bryan154/1151VR-HW2-414262349--)
