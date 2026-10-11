@@ -28,4 +28,15 @@ CH03 C# 程式腳本的基礎_1151FJU：變數、if、陣列、Vector。
 Vector3.MoveTowards 與 Time.deltaTime 是此作業額外使用的 Unity 功能，上方已說明用途。
 
 ## 繳交資料
-專案截圖、GitHub 連結、YouTube 連結與共享邀請仍待完成。
+
+### 專案截圖
+待補上文件中的專案截圖。
+
+### GitHub 連結
+[1151VR-HW2-414262349-陳嘉恩](https://github.com/bryan154/1151VR-HW2-414262349--)
+
+### YouTube 連結
+[專案執行影片](https://youtu.be/lO7e8qMY4R8)
+
+### 共享狀態
+已向老師的 GitHub 帳號 `cchu-fju` 送出邀請，等待對方接受。
